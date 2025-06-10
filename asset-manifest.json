@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/product-card/static/css/main.89cf558d.css",
+    "main.js": "/product-card/static/js/main.1812770f.js",
+    "static/js/453.b86df8a4.chunk.js": "/product-card/static/js/453.b86df8a4.chunk.js",
+    "static/media/headphones.jpg": "/product-card/static/media/headphones.1420e641e67cc1a80527.jpg",
+    "index.html": "/product-card/index.html",
+    "main.89cf558d.css.map": "/product-card/static/css/main.89cf558d.css.map",
+    "main.1812770f.js.map": "/product-card/static/js/main.1812770f.js.map",
+    "453.b86df8a4.chunk.js.map": "/product-card/static/js/453.b86df8a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89cf558d.css",
+    "static/js/main.1812770f.js"
+  ]
+}
